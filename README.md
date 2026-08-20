@@ -1,2 +1,2 @@
-# repositorio
+# calculadora-estadistica
 code
